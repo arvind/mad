@@ -77,6 +77,17 @@
 			"link": "http://www.tkuhn.org/pub/sempub/sempub.dokieli.html",
 			"title": "Genuine Semantic Publishing",
 			"notes": "Article (active document) describing various ways to build rich data into a document"
-		}
+		},
+		{
+			"link": "http://idl.cs.washington.edu/files/2010-Narrative-InfoVis.pdf",
+			"title": "Narrative Visualization Design Patterns",
+			"notes": "Early paper by Segel & Heer taxonomizing data storytelling patterns."
+		},
+		{
+			"link": "http://idl.cs.washington.edu/files/2014-Ellipsis-EuroVis.pdf",
+			"title": "Ellipsis",
+			"notes": "An early narrative visualization system by Satyanarayan & Heer."
+		},
+		{}
 	]
 }
